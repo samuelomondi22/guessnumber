@@ -1,0 +1,13 @@
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.exe
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.deps.json
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.runtimeconfig.json
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.runtimeconfig.dev.json
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.dll
+C:\cse321\csharp\carracing\bin\Debug\netcoreapp3.1\carracing.pdb
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.csprojAssemblyReference.cache
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.AssemblyInfoInputs.cache
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.AssemblyInfo.cs
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.csproj.CoreCompileInputs.cache
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.dll
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.pdb
+C:\cse321\csharp\carracing\obj\Debug\netcoreapp3.1\carracing.genruntimeconfig.cache
